@@ -22,12 +22,14 @@ An ordered list is written as
   <li>January</li>
   <li>February</li>
   <li>March</li>
+  <li>April</li>
 </ol>
 ```
 and is displayed as:
 1. January
 1. February
 1. March
+1. April
 
 An unordered list is written as
 
